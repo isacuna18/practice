@@ -38,6 +38,8 @@ public class CountingSort {
                 sorted[k] = i;
             }
         }
+        // LINES 34-40 are the piece of code I am proud of because I worked with arrays and nested for loops.
+        
 
         // return the sorted array
         return sorted;
