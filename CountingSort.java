@@ -1,5 +1,5 @@
 /**
- * Class with 2 ways of doing Counting sort, one naive way and one "better" way
+ * Class with doing Counting sort
  * 
  * @author 	Akhil Batra
  * @version	1.1 - April 16, 2016
